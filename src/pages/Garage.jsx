@@ -21,7 +21,7 @@ function Garage() {
           );
         })}
       </div>
-      <Link to={"/garaje"} className="bg-cyan-300 py-2 px-4 text-2xl rounded-md">ver mas</Link>
+      <Link to={"/tangoMotors-landing/garaje"} className="bg-cyan-300 py-2 px-4 text-2xl rounded-md">ver mas</Link>
     </div>
   );
 }

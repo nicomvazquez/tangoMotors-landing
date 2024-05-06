@@ -12,8 +12,8 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/garaje" element={<Catalogo />} />
+        <Route path="/tangoMotors-landing/" element={<Home />} />
+        <Route path="/tangoMotors-landing/garaje" element={<Catalogo />} />
       </Routes>
       <Futher />
     </BrowserRouter>
